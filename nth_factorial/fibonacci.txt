@@ -1,0 +1,11 @@
+Enter the Number : 13
+The answer is : 233
+
+Enter the Number : 21
+The answer is : 10946  
+
+Enter the Number : 31
+The answer is : 1346269
+
+Enter the Number : 47
+The answer is : 2971215073 
